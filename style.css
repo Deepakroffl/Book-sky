@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#popupbox2
+{
+    text-align: center;
+    position: fixed;
+    top: 100px;
+    left: 40%;
+}
+#plusbtn{
+    right: 20px;
+    bottom: 20px;
+}
+#bookadding{
+    display: inline-block;
+    vertical-align: top;
+};
